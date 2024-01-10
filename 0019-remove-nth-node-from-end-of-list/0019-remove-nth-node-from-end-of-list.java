@@ -31,27 +31,27 @@ class Solution {
 //         }
 //         return head;
     
-        // Create a dummy node to handle edge cases
+
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
         ListNode slow = dummy;
         ListNode fast = dummy;
 
-        // Move fast pointer n+1 steps ahead
+      
         for (int i = 0; i <= n; i++) {
             fast = fast.next;
         }
 
-        // Move both slow and fast until fast reaches the end
+        
         while (fast != null) {
             slow = slow.next;
             fast = fast.next;
         }
 
-        // Remove the N-th node from the end
+      
         slow.next = slow.next.next;
 
-        return dummy.next; // Return the modified head
+        return dummy.next;
     }
 }
