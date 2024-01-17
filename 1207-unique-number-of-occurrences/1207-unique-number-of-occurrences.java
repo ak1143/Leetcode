@@ -1,22 +1,32 @@
-
-
-class Solution {
-    public boolean uniqueOccurrences(int[] arr) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int num : arr) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+class Solution 
+{
+    public boolean uniqueOccurrences(int[] arr) 
+    {
+        Arrays.sort(arr);
+        int count=1;
+        ArrayList<Integer>list=new ArrayList<>();
         
-        HashMap<Integer, Boolean> occurrencesMap = new HashMap<>();
-        for (int count : map.values()) {
-            if (occurrencesMap.containsKey(count)) {
-                return false; 
-            } else {
-                occurrencesMap.put(count, true);
+        for(int i=0;i<arr.length-1;i++)
+        {
+            if(arr[i]==arr[i+1])
+            {
+                count++;
+            }
+            else{
+               list.add(count);
+                count=1;
             }
         }
-
-        return true;
+        list.add(count);
+        
+        Collections.sort(list);
+        
+        for(int i=0;i<list.size()-1;i++)
+        {
+            if(list.get(i)==list.get(i+1))
+            {
+                return false;
+            }
+        }return true;
     }
 }
