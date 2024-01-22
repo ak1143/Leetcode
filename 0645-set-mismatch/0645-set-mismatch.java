@@ -12,17 +12,32 @@ class Solution
             sum+=i;
         }
         
-        for(int i=0;i<n-1;i++)
+        //  first way:- time complexity-o(n^2);       `
+        // for(int i=0;i<n-1;i++)
+        // {
+        //     for(int j=i+1;j<n;j++)
+        //     {
+        //         if(nums[i]==nums[j])
+        //         {
+        //            arr[0]=nums[i];
+        //             break;
+        //         }
+        //     }
+        // }
+        
+        // second way:-
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int i=0;i<nums.length;i++)
         {
-            for(int j=i+1;j<n;j++)
+            if(map.containsKey(nums[i]))
             {
-                if(nums[i]==nums[j])
-                {
-                   arr[0]=nums[i];
-                    break;
-                }
+                arr[0]=nums[i];
+                break;
+            }else{
+                map.put(nums[i],1);
             }
         }
+        
         
         for(int i=0;i<n;i++)
         {
