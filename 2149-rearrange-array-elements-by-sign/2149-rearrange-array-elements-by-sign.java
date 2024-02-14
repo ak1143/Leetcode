@@ -15,34 +15,25 @@ class Solution
             }
         }
         
-        int i=0;
-        int j=0;
+        int i=0,j=0;
         int [] arr=new int [nums.length];
         int k=0;
         
         while(i<list1.size() || j<list2.size())
         {
-            arr[k]=list1.get(i);
-            k++;
-            i++;
-            arr[k]=list2.get(j);
-            j++;
-            k++;
+            arr[k++]=list1.get(i++);
+            arr[k++]=list2.get(j++);
         }
         
-        while(i<list1.size())
-        {
-            arr[k]=list1.get(i);
-            k++;
-            i++;
-        }
+//         while(i<list1.size())
+//         {
+//             arr[k++]=list1.get(i++);
+//         }
         
-        while(j<list2.size())
-        {
-            arr[k]=list2.get(j);
-            k++;
-            j++;
-        }
+//         while(j<list2.size())
+//         {
+//             arr[k++]=list2.get(j++);
+//         }
         return arr;
     }
 }
