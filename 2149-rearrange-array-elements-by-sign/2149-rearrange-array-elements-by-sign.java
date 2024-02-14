@@ -1,39 +1,18 @@
-class Solution 
-{
-    public int[] rearrangeArray(int[] nums) 
-    {
-        ArrayList<Integer>list1=new ArrayList<>();
-        ArrayList<Integer>list2=new ArrayList<>();
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+        int p = 0, n = 1;
+        int[] res = new int[nums.length];
         
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]>0)
-            {
-                list1.add(nums[i]);
-            }else{
-                list2.add(nums[i]);
+        for(int i= 0;i<res.length;i++){
+            if(nums[i]>0){
+                res[p] = nums[i];
+                p += 2;
+            }
+            else{
+                res[n] = nums[i];
+                n += 2;
             }
         }
-        
-        int i=0,j=0;
-        int [] arr=new int [nums.length];
-        int k=0;
-        
-        while(i<list1.size() || j<list2.size())
-        {
-            arr[k++]=list1.get(i++);
-            arr[k++]=list2.get(j++);
-        }
-        
-//         while(i<list1.size())
-//         {
-//             arr[k++]=list1.get(i++);
-//         }
-        
-//         while(j<list2.size())
-//         {
-//             arr[k++]=list2.get(j++);
-//         }
-        return arr;
+        return res;
     }
 }
