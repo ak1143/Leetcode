@@ -1,6 +1,6 @@
 class Solution {
     public long countSubarrays(int[] nums, int k) {
-        long max=0;
+        int max=0;
         int i=0;
         int j=0;
         int n=nums.length;
