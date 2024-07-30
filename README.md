@@ -30,6 +30,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## String
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ak1143/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ak1143/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Graph
 |  |
 | ------- |
@@ -79,4 +81,8 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/ak1143/Leetcode/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
