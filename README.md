@@ -11,6 +11,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/ak1143/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ak1143/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -27,6 +28,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Hash Table
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## String
@@ -39,6 +41,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
