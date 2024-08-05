@@ -15,6 +15,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ak1143/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## Matrix
@@ -31,11 +32,13 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -70,6 +73,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
