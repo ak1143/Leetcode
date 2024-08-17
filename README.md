@@ -6,6 +6,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ak1143/Leetcode/tree/master/0001-two-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ak1143/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -37,6 +38,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ak1143/Leetcode/tree/master/0001-two-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
