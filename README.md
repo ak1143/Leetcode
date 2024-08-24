@@ -150,6 +150,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ak1143/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/ak1143/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/ak1143/Leetcode/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/ak1143/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
 | ------- |
