@@ -137,6 +137,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ak1143/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ak1143/Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
