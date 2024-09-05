@@ -54,6 +54,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ak1143/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -133,6 +134,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
