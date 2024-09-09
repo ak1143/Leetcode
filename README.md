@@ -53,6 +53,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ak1143/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/ak1143/Leetcode/tree/master/0058-length-of-last-word) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
