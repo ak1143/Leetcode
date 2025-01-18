@@ -25,6 +25,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +176,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0476-number-complement](https://github.com/ak1143/Leetcode/tree/master/0476-number-complement) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |
