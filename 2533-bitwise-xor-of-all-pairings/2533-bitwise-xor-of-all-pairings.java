@@ -1,27 +1,26 @@
 class Solution {
     public int xorAllNums(int[] nums1, int[] nums2) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int xor1 = 0, xor2 = 0;
 
-        int n = nums1.length;
-        int m = nums2.length;
-
-
-        for(int num: nums1){
-            map.put(num,map.getOrDefault(num,0)+m);
+        // XOR all elements in nums1
+        for (int num : nums1) {
+            xor1 ^= num;
         }
 
-        for(int num : nums2){
-            map.put(num,map.getOrDefault(num,0)+n);
+        // XOR all elements in nums2
+        for (int num : nums2) {
+            xor2 ^= num;
         }
 
+        // Calculate result based on parity of lengths
         int result = 0;
-        
-        for(Map.Entry<Integer,Integer> set : map.entrySet()){
-            if(set.getValue() % 2 != 0) result = result ^ set.getKey();
+        if (nums2.length % 2 != 0) {
+            result ^= xor1;
+        }
+        if (nums1.length % 2 != 0) {
+            result ^= xor2;
         }
 
         return result;
-
-
     }
 }
