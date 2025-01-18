@@ -23,6 +23,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ak1143/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
@@ -173,8 +174,13 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ak1143/Leetcode/tree/master/0476-number-complement) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ak1143/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
