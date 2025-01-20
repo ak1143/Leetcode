@@ -25,6 +25,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Matrix
 |  |
@@ -33,6 +34,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
