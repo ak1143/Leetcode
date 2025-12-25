@@ -50,6 +50,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0001-two-sum](https://github.com/ak1143/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ak1143/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -64,6 +65,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ak1143/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/ak1143/Leetcode/tree/master/0058-length-of-last-word) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ak1143/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -138,6 +140,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ak1143/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
