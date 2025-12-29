@@ -9,6 +9,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0001-two-sum](https://github.com/ak1143/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ak1143/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ak1143/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -140,6 +141,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ak1143/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ak1143/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -154,6 +156,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Simulation
 |  |
@@ -214,4 +217,8 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0207-course-schedule](https://github.com/ak1143/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ak1143/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
