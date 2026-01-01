@@ -207,11 +207,13 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ak1143/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ak1143/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ak1143/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ak1143/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -223,4 +225,12 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
