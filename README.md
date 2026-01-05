@@ -16,6 +16,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
+| [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1196-filling-bookcase-shelves](https://github.com/ak1143/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -45,6 +46,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/ak1143/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
+| [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -82,6 +84,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0015-3sum](https://github.com/ak1143/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
+| [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -155,6 +158,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0015-3sum](https://github.com/ak1143/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
+| [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
