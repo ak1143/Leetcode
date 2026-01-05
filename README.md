@@ -18,6 +18,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1196-filling-bookcase-shelves](https://github.com/ak1143/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -60,6 +61,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ak1143/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -222,6 +224,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0207-course-schedule](https://github.com/ak1143/Leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ak1143/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,4 +256,5 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
