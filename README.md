@@ -55,6 +55,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/ak1143/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -192,6 +193,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0002-add-two-numbers](https://github.com/ak1143/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ak1143/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ak1143/Leetcode/tree/master/0066-plus-one) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/ak1143/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Recursion
 |  |
 | ------- |
