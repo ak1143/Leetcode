@@ -28,6 +28,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1895-largest-magic-square](https://github.com/ak1143/Leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/ak1143/Leetcode/tree/master/1905-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ak1143/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -45,6 +46,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ak1143/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1895-largest-magic-square](https://github.com/ak1143/Leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/ak1143/Leetcode/tree/master/1905-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -253,6 +255,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1895-largest-magic-square](https://github.com/ak1143/Leetcode/tree/master/1895-largest-magic-square) |
 ## Tree
 |  |
 | ------- |
