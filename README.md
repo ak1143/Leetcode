@@ -41,6 +41,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ak1143/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ak1143/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -192,10 +195,12 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ak1143/Leetcode/tree/master/0002-add-two-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -282,4 +287,12 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [1905-count-sub-islands](https://github.com/ak1143/Leetcode/tree/master/1905-count-sub-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
