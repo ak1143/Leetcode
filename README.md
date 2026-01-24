@@ -39,6 +39,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ak1143/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ak1143/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +220,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0476-number-complement](https://github.com/ak1143/Leetcode/tree/master/0476-number-complement) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ak1143/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ak1143/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Backtracking
 |  |
 | ------- |
