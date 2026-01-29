@@ -21,6 +21,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1196-filling-bookcase-shelves](https://github.com/ak1143/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1200-minimum-absolute-difference](https://github.com/ak1143/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ak1143/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/ak1143/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -104,6 +105,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0881-boats-to-save-people](https://github.com/ak1143/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ak1143/Leetcode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1200-minimum-absolute-difference](https://github.com/ak1143/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ak1143/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ak1143/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
