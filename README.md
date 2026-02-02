@@ -42,6 +42,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2685-first-completely-painted-row-or-column](https://github.com/ak1143/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ak1143/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ak1143/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ak1143/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ak1143/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -115,6 +116,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [2502-sort-the-people](https://github.com/ak1143/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ak1143/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ak1143/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ak1143/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ak1143/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -300,4 +302,8 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ak1143/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ak1143/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
