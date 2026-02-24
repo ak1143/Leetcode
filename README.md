@@ -255,6 +255,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/ak1143/Leetcode/tree/master/0463-island-perimeter) |
 | [0820-find-eventual-safe-states](https://github.com/ak1143/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ak1143/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1905-count-sub-islands](https://github.com/ak1143/Leetcode/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
@@ -283,6 +284,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ak1143/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -291,6 +293,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0199-binary-tree-right-side-view](https://github.com/ak1143/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ak1143/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ak1143/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Union Find
 |  |
