@@ -9,6 +9,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0001-two-sum](https://github.com/ak1143/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ak1143/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ak1143/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ak1143/Leetcode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ak1143/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -187,6 +188,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | ------- |
 | [0015-3sum](https://github.com/ak1143/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ak1143/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/ak1143/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
