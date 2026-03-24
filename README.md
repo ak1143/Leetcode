@@ -14,6 +14,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ak1143/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/ak1143/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ak1143/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/ak1143/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ak1143/Leetcode/tree/master/0463-island-perimeter) |
 | [0624-maximum-distance-in-arrays](https://github.com/ak1143/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/ak1143/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -191,6 +192,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0016-3sum-closest](https://github.com/ak1143/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ak1143/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ak1143/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ak1143/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/ak1143/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ak1143/Leetcode/tree/master/0948-bag-of-tokens) |
