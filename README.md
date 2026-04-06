@@ -18,6 +18,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0283-move-zeroes](https://github.com/ak1143/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ak1143/Leetcode/tree/master/0463-island-perimeter) |
 | [0624-maximum-distance-in-arrays](https://github.com/ak1143/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0874-walking-robot-simulation](https://github.com/ak1143/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/ak1143/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/ak1143/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -82,6 +83,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ak1143/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ak1143/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ak1143/Leetcode/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/ak1143/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ak1143/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ak1143/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ak1143/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -211,6 +213,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/ak1143/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ak1143/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ak1143/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ak1143/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
