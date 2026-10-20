@@ -158,6 +158,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ak1143/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ak1143/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1196-filling-bookcase-shelves](https://github.com/ak1143/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ak1143/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -230,6 +231,7 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 | [0002-add-two-numbers](https://github.com/ak1143/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ak1143/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ak1143/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ak1143/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ak1143/Leetcode/tree/master/0189-rotate-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ak1143/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Recursion
@@ -327,4 +329,8 @@ I've worked on many LeetCode problems, which helped me get better at solving puz
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ak1143/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ak1143/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
